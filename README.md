@@ -34,7 +34,7 @@ cd jogo-adivinhacao-python
 Execute:
 
 ```bash
-python main.py
+python Jogo de Advinhação de Números.py
 ```
 
 ## Autor
