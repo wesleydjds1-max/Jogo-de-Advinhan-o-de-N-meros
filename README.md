@@ -1,4 +1,4 @@
-# 🎯 Jogo de Adivinhação em Python
+# 🎯 Jogo de Adivinhação de Números em Python
 
 Um jogo desenvolvido em Python onde o jogador deve descobrir um número secreto entre 1 e 100.
 
