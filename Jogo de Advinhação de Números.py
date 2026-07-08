@@ -1,7 +1,17 @@
-# ==========================================
-# Jogo de Adivinhação de Números
-# Autor: Wesley
-# ==========================================
+"""
+Jogo de Adivinhação de Números em Python
+Este é um jogo simples onde o jogador deve adivinhar um número aleatório entre 1 e 100. O jogador escolhe a dificuldade, que determina o número de tentativas disponíveis. O jogo fornece dicas se o palpite do jogador é maior ou menor que o número secreto.
+
+Projeto desenvolvido para praticar:
+- Estruturas condicionais
+- Laços de repetição
+- Tratamento de exceções
+- Geração de números aleatórios
+- Manipulação de listas
+- Sistema de pontuação
+
+Autor: Wesley de Jesus dos Santos
+"""
 
 import random
 import time
